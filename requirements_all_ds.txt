@@ -42,3 +42,4 @@ cmem-cmempy==21.2.3
 xlrd==2.0.1
 openpyxl==3.0.7
 firebolt-sqlalchemy
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability

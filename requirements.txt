@@ -68,3 +68,4 @@ werkzeug==0.16.1
 Authlib==0.15.5
 advocate==1.0.0
 # Cython
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability

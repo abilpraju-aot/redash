@@ -68,3 +68,6 @@ werkzeug==0.16.1
 Authlib==0.15.5
 advocate==1.0.0
 # Cython
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+mako>=1.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+paramiko>=3.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
